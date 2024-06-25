@@ -1,0 +1,9 @@
+recommend_app\gaming_companion\node_modules
+recommend_app\server\knn_model.pkl
+recommend_app\server\pivot_table.pkl
+
+prepare_data/scripts_for_getting_csv/games.csv
+recommend_app/gmout.csv
+recommend_app/server/knn_model.pkl
+recommend_app/server/pivot_table.pkl
+recommend_app/games.csv
